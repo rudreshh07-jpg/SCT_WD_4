@@ -6,7 +6,7 @@ The application helps users organize their daily tasks, set priorities and due d
 
 ## 🌐 Live Demo
 
-👉 **[View Live Project](https://rudreshh07-jpg.github.io/SCT_WD_/)**
+👉 **[View Live Project](https://rudreshh07-jpg.github.io/SCT_WD_4/)**
 
 ## 📂 GitHub Repository
 
