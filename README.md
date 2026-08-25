@@ -39,10 +39,12 @@ The application helps users organize their daily tasks, set priorities and due d
 ```text
 SCT_WD_4/
 │
+├── README.md
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── task-4(1)
+└── task-4(2)
 
 ```
 ## 🚀 Run Locally
